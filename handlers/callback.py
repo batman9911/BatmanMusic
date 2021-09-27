@@ -1,4 +1,4 @@
-# (C) 2021 VeezMusic-Project
+# (C) 2021 BATMAN Music-Project
 
 from pyrogram import Client, filters
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, Chat, CallbackQuery
