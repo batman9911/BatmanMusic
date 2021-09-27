@@ -1,4 +1,4 @@
-# Copyright (C) 2021 By VeezProject
+# Copyright (C) 2021 By BATMAN Project
 # Originally written by levina on github
 # Broadcast function
 
