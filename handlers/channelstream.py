@@ -1,4 +1,4 @@
-# Copyright (C) 2021 VeezMusic Project
+# Copyright (C) 2021 BATMAN Music Project
 
 import json
 import os
